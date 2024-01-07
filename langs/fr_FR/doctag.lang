@@ -1,14 +1,15 @@
 Module104280Name = Document Tags
 Module104280Desc = Permet de gérer des tags sur vos documents
-TagsOfThis=Les Tags de ce document
-SeparatedByComma=Séparé par des virgules
-TagsSaved=Informations sauvegardées
-TagSearch=Recherche sur tags ou titre
-AbricotNotFound=Ce module requiert le module gratuit Abricot
-NullTitle=Document sans titre
-DocumentTags=Document Tags
-Deleted=Fichier supprimé
-TagDeleted=Tag supprimé
-DeleteIt=Supprimer ce tag ?
-delete=Supprimer
-NoRecDossierToDisplay=Aucun fichier ne correspond à ce tag
+
+TagsOfThis = Les Tags de ce document
+SeparatedByComma = Séparé par des virgules
+TagsSaved = Informations sauvegardées
+TagSearch = Recherche sur tags ou titre
+AbricotNotFound = Ce module requiert le module gratuit Abricot
+NullTitle = Document sans titre
+DocumentTags = Document Tags
+Deleted = Fichier supprimé
+TagDeleted = Tag supprimé
+DeleteIt = Supprimer ce tag ?
+delete = Supprimer
+NoRecDossierToDisplay = Aucun fichier ne correspond à ce tag
